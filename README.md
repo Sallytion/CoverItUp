@@ -2,6 +2,9 @@
 
 Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Auth
 
+# Live Preview
+[Vercel Deployment](coveritup.vercel.app)
+
 ## Features
 
 - 🛠️ Complete shop built from scratch in Next.js 14
