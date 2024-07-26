@@ -3,7 +3,7 @@
 Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Auth
 
 # Live Preview
-[Vercel Deployment](coveritup.vercel.app)
+[Vercel Deployment](https://coveritup.vercel.app)
 
 ## Features
 
